@@ -1,1 +1,2 @@
-camelcase
+uvicorn
+fastapi
